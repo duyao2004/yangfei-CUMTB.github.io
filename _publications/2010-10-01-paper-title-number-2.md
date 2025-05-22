@@ -1,14 +1,28 @@
 ---
-title: "Paper Title Number 2"
+title: "指导学生获奖："
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2015-10-01-paper-title-number-3
+#excerpt: '可以描述项目的具体内容.'
+#date: 2015-10-01
+#venue: '几月几号'
+#slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
+#paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+#citation: '参与学生名单. (2015). &quot;获奖具体项目.&quot; <i></i> .'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+2024，全国大学生测绘学科创新创业大赛科技论论文竞赛二等奖                                                
+2024，中国矿业大学（北京）优秀本科毕业设计                                                
+2024，中国矿业大学（北京）优秀大学生创新训练项目                                                
+2023，第十四届北京市大学生测绘技能竞赛团体二等奖                                                
+2023，中国矿业大学（北京）优秀本科毕业设计一等奖                                                
+2023，全国大学生测绘学科创新创业智能大赛科技论文竞赛二等奖                                                
+2023，全国大学生测绘学科创新创业智能大赛测绘程序竞赛一等奖                                                
+2022，全国大学生测绘学科创新创业智能大赛科技论文竞赛一等奖                                                
+2022，全国大学生测绘学科创新创业智能大赛科技论文竞赛二等奖                                                
+2022，全国高校GIS技能大赛论文三等奖                                                
+2022，北京市测绘技能大赛团体一等奖                                                
+2021，中国测绘学会PIE遥感与地理信息一体化软件二次开发大赛一等奖                                                
+2021，中国矿业大学（北京）优秀本科毕业设计                                                
+2021，全国高等学校大学生测绘技能大赛测绘程序设计竞赛二等奖                                                
+2021，全国高等学校大学生测绘技能大赛团体二等奖                                                
+2021，北京大学生虚拟仿真测图技能大赛团体一等奖                                                

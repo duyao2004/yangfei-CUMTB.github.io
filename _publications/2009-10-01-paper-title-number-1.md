@@ -1,14 +1,32 @@
 ---
-title: "Paper Title Number 1"
+title: "荣誉奖励："
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2015-10-01-paper-title-number-3
+#excerpt: '可以描述项目的具体内容.'
+#date: 2015-10-01
+#venue: '几月几号'
+#slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
+#paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+#citation: '参与学生名单. (2015). &quot;获奖具体项目.&quot; <i></i> .'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+2025，首都前沿学术成果                                                
+2024，中国矿业大学（北京）专业学位研究生优秀教学案例                                                
+2024，中国矿业大学（北京）大学生创新训练项目优秀指导教师                                                
+2024，中国矿业大学（北京）优秀教学质量奖                                                
+2024，中国矿业大学（北京）优秀本科生全程导师奖                                                
+2023，地理信息科技进步一等奖                                                
+2023，北京市大学生测绘技能竞赛优秀指导教师                                                
+2022，全国高等学校测绘类专业青年教授讲课竞赛/GNSS原理与应用二等奖                                                
+2022，全国高校GIS技能大赛优秀指导老师                                                
+2022，北京市测绘技能大赛优秀指导教师奖                                                
+2022，中国矿业大学（北京）优秀班主任                                                
+2022，中国矿业大学（北京）青年教师教学优秀奖                                                
+2022，中国矿业大学（北京）优秀本科生全程导师奖                                                
+2021，北京市大学生虚拟仿真测图技能大赛优秀指导教师                                                
+2021，中国测绘学会PIE遥感与地理信息一体软件二次开发大赛优秀指导老师                                                
+2020，武汉大学优秀毕业生代表                                                
+2020，武汉大学学术创新一等奖                                                
+2019，武汉大学乐群学术之星                                                
+2019，博士研究生国家奖学金                                                
+

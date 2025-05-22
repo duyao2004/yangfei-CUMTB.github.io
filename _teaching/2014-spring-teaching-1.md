@@ -1,14 +1,16 @@
 ---
-title: "Teaching experience 1"
+title: "研究生课程"
 collection: teaching
-type: "Undergraduate course"
+type: ""
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: ""
 date: 2014-01-01
-location: "City, Country"
+location: ""
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+《GNSS地学应用》16学时                          
+《信息化测绘及资源环境监测前沿》4学时                     
+                                                                 
 
 Heading 1
 ======

@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "GRseRG_GNSS/RS空间环境研究组-北京环球影城旅行纪念"
+excerpt: "<br/><img src='/images/hqlx.png'>"
 collection: portfolio
 ---
 

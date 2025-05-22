@@ -1,14 +1,17 @@
 ---
-title: "Teaching experience 2"
+title: "本科生课程"
 collection: teaching
-type: "Workshop"
+type: ""
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+venue: ""
 date: 2015-01-01
-location: "City, Country"
+location: ""
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+《数据结构》48学时                      
+《测绘遥感学科导论》2学时                   
+《GNSS原理及其应用》40学时                      
+                                             
 
 Heading 1
 ======

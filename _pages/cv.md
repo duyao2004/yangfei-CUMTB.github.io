@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+#title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,13 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+团队资源
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+[* GMR-Water: 基于 GNSS-MR 的水位反演软件](https://github.com/GRseRG-CUMTB/GMR-Water)
 
-Work experience
+<!--* M.S. in Jekyll, GitHub University, 2014-->
+<!--* B.S. in GitHub, GitHub University, 2012-->
+
+<!--Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
@@ -62,3 +63,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
