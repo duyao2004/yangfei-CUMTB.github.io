@@ -1,6 +1,6 @@
 ---
 title: "GRseRG_GNSS/RS空间环境研究组-Satellite Navigation 2025青年科学家研讨会合影"
-excerpt: "<br/><img src='/images/yth.png'>"
+excerpt: "<br/><img src='/images/yth.png' style='width:50%;'>"
 collection: portfolio
 ---
 
