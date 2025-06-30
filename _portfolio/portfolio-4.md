@@ -1,5 +1,5 @@
 ---
-title: "GNSS/RS空间环境研究组-测绘地理信息发展论坛暨《测绘学报》学术年会合影"
+title: "测绘地理信息发展论坛暨《测绘学报》学术年会合影"
 excerpt: "<br/><img src='/images/ch.png' style='width:50%;'>"
 collection: portfolio
 ---
