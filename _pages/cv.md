@@ -11,7 +11,8 @@ redirect_from:
 
 团队资源
 ======
-[* GMR-Water: 基于 GNSS-MR 的水位反演软件](https://github.com/GRseRG-CUMTB/GMR-Water)
+[* GMR-Water: 基于 GNSS-MR 的水位反演软件](https://github.com/GRseRG-CUMTB/GMR-Water)   
+[* ERA5-SH: A global grided scale height dataset for tropospheric parameters based on ERA5 reanalysis](https://zenodo.org/records/14679394)
 
 <!--* M.S. in Jekyll, GitHub University, 2014-->
 <!--* B.S. in GitHub, GitHub University, 2012-->
